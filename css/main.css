@@ -49,7 +49,7 @@ img {
 }
 
 .social {
-  margin-left:auto;
+  margin-left: auto;
   padding: 0 1rem;
   display: flex;
 }
@@ -60,5 +60,6 @@ img {
 }
 
 .copyright {
+  padding: 0 1rem;
   width: 100%;
 }
